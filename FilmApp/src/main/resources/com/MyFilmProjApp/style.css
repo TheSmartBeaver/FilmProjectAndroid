@@ -1,0 +1,19 @@
+.root {
+  -fx-background: #333333;
+  -fx-text-fill: -text-dark;
+  -fx-prompt-text-fill: rgba(255,255,255,.3);
+
+  -text-disabled: -text-disabled-dark;
+  -background-disabled:rgba(255,255,255,.12);
+  -background-fill: -text-dark;
+
+}
+
+.button {
+  -fx-background-color: -primary-swatch-500;
+  -fx-text-fill: ladder(-primary-swatch-500, -text-dark 49%, -text-light 50%)
+}
+
+.button:hover {
+  -fx-background-color:-primary-swatch-600;
+}

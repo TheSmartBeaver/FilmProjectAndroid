@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FilmApp.iml" filepath="$PROJECT_DIR$/FilmApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FilmApp/FilmApp.FilmApp.iml" filepath="$PROJECT_DIR$/.idea/modules/FilmApp/FilmApp.FilmApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FilmApp/FilmApp.FilmApp.android.iml" filepath="$PROJECT_DIR$/.idea/modules/FilmApp/FilmApp.FilmApp.android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FilmApp/FilmApp.FilmApp.desktop.iml" filepath="$PROJECT_DIR$/.idea/modules/FilmApp/FilmApp.FilmApp.desktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FilmApp/FilmApp.FilmApp.embedded.iml" filepath="$PROJECT_DIR$/.idea/modules/FilmApp/FilmApp.FilmApp.embedded.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FilmApp/FilmApp.FilmApp.ios.iml" filepath="$PROJECT_DIR$/.idea/modules/FilmApp/FilmApp.FilmApp.ios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FilmApp/FilmApp.FilmApp.main.iml" filepath="$PROJECT_DIR$/.idea/modules/FilmApp/FilmApp.FilmApp.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FilmApp/FilmApp.FilmApp.test.iml" filepath="$PROJECT_DIR$/.idea/modules/FilmApp/FilmApp.FilmApp.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FilmProject.FilmApp.iml" filepath="$PROJECT_DIR$/.idea/modules/FilmProject.FilmApp.iml" />
+    </modules>
+  </component>
+</project>
